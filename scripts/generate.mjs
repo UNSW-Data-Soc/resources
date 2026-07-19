@@ -2,10 +2,10 @@ import fs from "fs";
 import path from "path";
 
 const RESOURCES_FILE = "resources.json";
-const FILES_FOLDER = "files/test";
+const FILES_FOLDER = "files";
 
 const repoName =
-  process.env.GITHUB_REPOSITORY || "fishdynasty/datasoc_resources_page_git_test";
+  process.env.GITHUB_REPOSITORY || "UNSW-Data-Soc/resources";
 
 const [owner, repo] = repoName.split("/");
 const pagesBaseUrl = `https://${owner}.github.io/${repo}`;
