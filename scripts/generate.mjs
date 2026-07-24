@@ -128,11 +128,12 @@ for (const filePath of uploadedFiles) {
 
   resources.push({
     id,
-    title: "TODO: WRITE TITLE!",
+    title: path.parse(fileName).name,
     type: "file",
-    category: "TODO: Insert Category Here",
-    description: "TODO: Add short description.",
+    category: "General",
+    description: "",
     url,
+    directory: folders,
     tags: [],
     needsReview: true,
   });
