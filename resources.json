@@ -3,72 +3,72 @@
     "id": "careers-guides-2021-datasoc-careers-guide",
     "title": "2021 DataSoc Careers Guide",
     "type": "file",
-    "description": "",
+    "description": "The 2021 DataSoc team brings to you data science career pathways, job searching tips and exclusive student testimonials!",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/Careers%20Guides/2021%20DataSoc%20Careers%20Guide.pdf",
     "directory": [
       "Careers Guides"
     ],
-    "tags": [],
+    "tags": ["Career", "Data Science"],
     "needsReview": true
   },
   {
     "id": "careers-guides-2024-datasoc-careers-guide",
     "title": "2024 DataSoc Careers Guide",
     "type": "file",
-    "description": "",
+    "description": "The 2024 DataSoc team's tips and templates for networking, cover letters, resumes and more...",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/Careers%20Guides/2024%20DataSoc%20Careers%20Guide.pdf",
     "directory": [
       "Careers Guides"
     ],
-    "tags": [],
+    "tags": ["Career", "Data Science"],
     "needsReview": true
   },
   {
     "id": "first-year-guides-2021-datasoc-first-year-guide",
     "title": "2021 DataSoc First Year Guide",
     "type": "file",
-    "description": "",
+    "description": "The 2021 DataSoc Board Team's guide to your first year in UNSW Data Science and Decisions!",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2021%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
-    "tags": [],
+    "tags": ["Data Science", "University Life"],
     "needsReview": true
   },
   {
     "id": "first-year-guides-2022-datasoc-first-year-guide",
     "title": "2022 DataSoc First Year Guide",
     "type": "file",
-    "description": "",
+    "description": "This guide, brought to you by the 2022 media directors, combines information and knowledge from the DataSoc team to help you through your first year in Data Science at UNSW!",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2022%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
-    "tags": [],
+    "tags": ["Data Science", "University Life"],
     "needsReview": true
   },
   {
     "id": "first-year-guides-2024-datasoc-first-year-guide",
     "title": "2024 DataSoc First Year Guide",
     "type": "file",
-    "description": "",
+    "description": "The 2024 DataSoc team brings to you a guide on the DataSoc team, the Data Science degree, and other tips for a first year Data Science student!",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2024%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
-    "tags": [],
+    "tags": ["Data Science", "University Life"],
     "needsReview": true
   },
   {
     "id": "first-year-guides-2025-datasoc-first-year-guide",
     "title": "2025 DataSoc First Year Guide",
     "type": "file",
-    "description": "",
+    "description": "The 2025 DataSoc team's introduction to your journey as a Data Science major! Learn about the DataSoc team, first year courses, student opportunities and more...",
     "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2025%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
-    "tags": [],
+    "tags": ["Data Science", "University Life"],
     "needsReview": true
   }
 ]
