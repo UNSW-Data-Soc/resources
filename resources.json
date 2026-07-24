@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "datasoc-first-year-guide-2022",
+    "title": "TODO: WRITE TITLE!",
+    "type": "file",
+    "category": "TODO: Insert Category Here",
+    "description": "TODO: Add short description.",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/DataSoc%20First%20Year%20Guide%202022.pdf",
+    "tags": [],
+    "needsReview": true
+  },
+  {
+    "id": "datasoc-first-year-guide-2025",
+    "title": "TODO: WRITE TITLE!",
+    "type": "file",
+    "category": "TODO: Insert Category Here",
+    "description": "TODO: Add short description.",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/DataSoc%20First%20Year%20Guide%202025.pdf",
+    "tags": [],
+    "needsReview": true
+  }
+]
