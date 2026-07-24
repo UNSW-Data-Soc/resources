@@ -1,10 +1,34 @@
 [
   {
-    "id": "first-year-guides-datasoc-first-year-guide-2021",
-    "title": "DataSoc First Year Guide 2021",
+    "id": "careers-guides-2021-datasoc-careers-guide",
+    "title": "2021 DataSoc Careers Guide",
     "type": "file",
     "description": "",
-    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/DataSoc%20First%20Year%20Guide%202021.pdf",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/Careers%20Guides/2021%20DataSoc%20Careers%20Guide.pdf",
+    "directory": [
+      "Careers Guides"
+    ],
+    "tags": [],
+    "needsReview": true
+  },
+  {
+    "id": "careers-guides-2024-datasoc-careers-guide",
+    "title": "2024 DataSoc Careers Guide",
+    "type": "file",
+    "description": "",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/Careers%20Guides/2024%20DataSoc%20Careers%20Guide.pdf",
+    "directory": [
+      "Careers Guides"
+    ],
+    "tags": [],
+    "needsReview": true
+  },
+  {
+    "id": "first-year-guides-2021-datasoc-first-year-guide",
+    "title": "2021 DataSoc First Year Guide",
+    "type": "file",
+    "description": "",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2021%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
@@ -12,11 +36,11 @@
     "needsReview": true
   },
   {
-    "id": "first-year-guides-datasoc-first-year-guide-2022",
-    "title": "DataSoc First Year Guide 2022",
+    "id": "first-year-guides-2022-datasoc-first-year-guide",
+    "title": "2022 DataSoc First Year Guide",
     "type": "file",
     "description": "",
-    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/DataSoc%20First%20Year%20Guide%202022.pdf",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2022%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
@@ -24,11 +48,11 @@
     "needsReview": true
   },
   {
-    "id": "first-year-guides-datasoc-first-year-guide-2024",
-    "title": "DataSoc First Year Guide 2024",
+    "id": "first-year-guides-2024-datasoc-first-year-guide",
+    "title": "2024 DataSoc First Year Guide",
     "type": "file",
     "description": "",
-    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/DataSoc%20First%20Year%20Guide%202024.pdf",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2024%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
@@ -36,11 +60,11 @@
     "needsReview": true
   },
   {
-    "id": "first-year-guides-datasoc-first-year-guide-2025",
-    "title": "DataSoc First Year Guide 2025",
+    "id": "first-year-guides-2025-datasoc-first-year-guide",
+    "title": "2025 DataSoc First Year Guide",
     "type": "file",
     "description": "",
-    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/DataSoc%20First%20Year%20Guide%202025.pdf",
+    "url": "https://UNSW-Data-Soc.github.io/resources/files/First%20Year%20Guides/2025%20DataSoc%20First%20Year%20Guide.pdf",
     "directory": [
       "First Year Guides"
     ],
