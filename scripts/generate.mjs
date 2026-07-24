@@ -130,7 +130,6 @@ for (const filePath of uploadedFiles) {
     id,
     title: path.parse(fileName).name,
     type: "file",
-    category: "General",
     description: "",
     url,
     directory: folders,
